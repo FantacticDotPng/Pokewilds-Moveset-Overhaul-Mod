@@ -11,25 +11,36 @@ Simply download the "pokemon" folder and then put the folder into your mods fold
 
 ## Gen 1
 Bulbasaur line
+
 Charmander line
+
 Squirtle line
+
 Pichu line
+
 Eevee line* (just leafeon atm)
 
 ## Gen 2
 
 Chikorita line
+
 Cyndaquil line
+
 Totodile line
+
 Wooper line
 
 ## Gen 3
 
+
 Absol
+
 Trapinch line
+
 Beldum line
 
 ## Gen 4
 
 Riolu line
+
 Gible line
