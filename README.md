@@ -30,6 +30,8 @@ Totodile line
 
 Wooper line
 
+Azurill line
+
 ## Gen 3
 
 
