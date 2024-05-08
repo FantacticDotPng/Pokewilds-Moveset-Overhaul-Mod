@@ -1,0 +1,19 @@
+	db EVOLVE_LEVEL, 45, METAGROSS
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 15, TAKE_DOWN
+	db 22, BULLET_PUNCH
+	db 24, METAL_CLAW
+	db 27, ZEN_HEADBUTT
+	db 30, FLASH_CANNON
+	db 34, PSYCHIC
+	db 38, REFLECT
+	db 42, SCARY_FACE
+	db 46, THUNDER_PUNCH
+	db 50, METEOR_MASH
+	db 55, LIGHT_SCREEN
+	db 58, IRON_DEFENSE
+	db 61, ICE_PUNCH
+	db 74, HYPER_BEAM
+	db 83, EARTHQUAKE
+	db 0 ; no more level-up moves

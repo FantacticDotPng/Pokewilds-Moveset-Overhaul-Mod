@@ -1,0 +1,19 @@
+	db 0 ; no more evolutions
+	db 1, QUICK_ATTACK
+	db 8, METAL_CLAW
+	db 14, LOW_KICK
+	db 20, ROCK_SMASH
+	db 24, NASTY_PLOT
+	db 28, SCREECH
+	db 30, AURA_SPHERE
+	db 36, BOME_RUSH
+	db 40, SWORDS_DANCE
+	db 47, ICE_PUNCH
+	db 52, DRAGON_PULSE
+	db 56, EXTREMESPEED
+	db 59, AERIAL_ACE
+	db 64, FIRE_PUNCH
+	db 69, DARK_PULSE
+	db 76, SHADOW_BALL
+	db 87, EARTHQUAKE
+	db 0 ; no more level-up moves
