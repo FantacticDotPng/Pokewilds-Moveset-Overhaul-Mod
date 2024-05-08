@@ -16,7 +16,9 @@ Charmander line
 
 Squirtle line
 
-Pichu line
+Pichu line (you can now get Alolan Raichi by using a water stone on Pikachu)
+
+Machop line (Machoke now evolves at level 36 in addition to still being able to evolve with a sun stone)
 
 Eevee line* (just leafeon atm)
 
