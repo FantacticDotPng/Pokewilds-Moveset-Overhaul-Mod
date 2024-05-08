@@ -1,0 +1,19 @@
+	db EVOLVE_LEVEL, 28, MACHOKE
+	db 0 ; no more evolutions
+	db 1, LOW_KICK
+	db 1, LEER
+	db 13, KARATE_CHOP
+	db 17, ROCK_SLIDE
+	db 20, SCARY_FACE
+	db 24, BULLET_PUNCH
+	db 29, STRENGTH
+	db 32, FIRE_PUNCH
+	db 38, ICE_PUNCH
+	db 40, SEISMIC_TOSS
+	db 44, DYNAMICPUNCH
+	db 48, CROSS_CHOP
+	db 52, DOUBLE_EDGE
+	db 57, THUNDER_PUNCH
+	db 62, POISON_JAB
+	db 69, EARTHQUAKE
+	db 0 ; no more level-up moves
